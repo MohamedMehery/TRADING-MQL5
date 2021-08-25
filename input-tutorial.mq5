@@ -22,7 +22,7 @@ void OnStart()
    
    takeprofitlevel = Bid + (Takeprofitpips * Point()) ;
    stoplosslevel = Bid - (Stoplosspips * Point());
-  
+   
   Alert("Take profit level = " , takeprofitlevel);
   Alert("stop loss level = " , stoplosslevel);
   }
