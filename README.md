@@ -1,6 +1,6 @@
 # MQL5 Programming Course for C++ Developers
 
-Welcome to the **MQL5 Programming Course**! This course is designed for C++ developers to learn how to develop automated trading systems and Expert Advisors (EAs) using MetaTrader 5's MQL5 language. The course is organized into daily lessons to help you build a strong foundation in MQL5, leveraging your existing knowledge of C++.
+Welcome to the **MQL5 Programming Course**! This course is designed for developers to learn how to develop automated trading systems and Expert Advisors (EAs) using MetaTrader 5's MQL5 language. The course is organized into daily lessons to help you build a strong foundation in MQL5, leveraging your existing knowledge of C++.
 
 ## Course Outline
 
